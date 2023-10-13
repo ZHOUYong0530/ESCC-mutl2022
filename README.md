@@ -12,3 +12,5 @@ The IM_score.ipynb provides the code for IM score computation. And the input dat
 ## RCS (Regional clonality score)
 
 The RCS_score.ipynb provides the code for RCS score computation. And the input data is available in Zenodo: https://zenodo.org/record/8404770. 
+
+Author(Mo Shanlan, Zhou Yong)
