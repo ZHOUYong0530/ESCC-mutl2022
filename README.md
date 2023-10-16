@@ -7,7 +7,7 @@ Source code for analyzing mutli-regional data from 103 patients
 
 ## IM (immunoediting score)
 
-The IM_score.ipynb provides the code for IM score computation. And the input data is available in Zenodo: https://zenodo.org/record/xxxxx. 
+The IM_score.ipynb provides the code for IM score computation. And the input data is available in Zenodo: https://zenodo.org/record/10005976. 
 
 ## RCS (Regional clonality score)
 
